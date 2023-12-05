@@ -1,5 +1,5 @@
-hey!
+This is just my personal website
 
-i'm not sure why this isn't working
+Visit it <a href="8julie.github.io">here</a>
 
-i just made the repo public so
+I have to keep this repository public in order for the website to work as intended
