@@ -1,13 +1,14 @@
-# About
+# Julie Bui 
 
-This repo is intended for me to setup my website one day
+Welcome to my portfolio
 
-Sorry I'm lazy
+Feel free to reach out to me: minhab@uci.edu
 
 ## Stuff to add
-- MP3 player
-- Keitai project
-- My nutrition research project here, a guide with NHANES databses
-- HIV/AIDs research project 
-- The Anki extension I wrote
-- Idk
+[] Perfume project
+[] MP3 player
+[] Keitai project
+[] My nutrition research project here, a guide with NHANES databses
+[] HIV/AIDs research project 
+[] The Anki extension I wrote
+[] Idk
