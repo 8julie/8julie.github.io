@@ -1,8 +1,9 @@
 # Julie Bui 
 
-Welcome to my portfolio
+Welcome to my Github. Feel free to reach out to me: minhab@uci.edu
 
-Feel free to reach out to me: minhab@uci.edu
+# Portfolio
+[A Fragrantica perfume ingredient explorer](https://github.com/8julie/perfume)
 
 ## Stuff to add
 [] Perfume project
