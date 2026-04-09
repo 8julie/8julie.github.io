@@ -1,0 +1,2 @@
+- somehow markdown is kind of mad about vietnamese, to fix: https://github.com/yzhang-gh/vscode-markdown/issues/41
+- 
