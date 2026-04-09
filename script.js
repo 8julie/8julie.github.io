@@ -1,5 +1,3 @@
-// setTimeout(() => {
-//   const p = document.createElement("p");
-//   p.innerText = "pee poo pee poo";
-//   document.body.appendChild(p);
-// }, 2000);
+var TurndownService = require('turndown')
+var turndownService = new TurndownService()
+var markdown = turndownService.turndown('<h1>Hello world!</h1>')

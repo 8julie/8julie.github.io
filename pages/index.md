@@ -1,4 +1,4 @@
-# About
+# Julie Bui
 
 > **NOTE:** I have not added everything that I've wanted to add on this website, some parts will be incomplete, including updating my CV to be available for this website
 
@@ -9,5 +9,3 @@ I have been rock climbing since ~ September of 2021, mostly bouldering indoor/ou
 I speak English, Vietnamese. I will probably translate this website in the future. I offer translation services (I taught Vietnamese in the past, and have translated Vietnamese-English & English-Vietnamese in research settings). 
 
 Inquiries: minhab@uci.edu
-
-showdown
